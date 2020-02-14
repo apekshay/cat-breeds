@@ -26,6 +26,7 @@ npm install
 Run the following command to run the application
 npm run serve
 
+
 Http Library Generic badge
 axios library is used to make http calls
 
