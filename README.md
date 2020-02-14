@@ -4,9 +4,10 @@
 
 This Repo demonstrates the use of the following in vuejs
 1. Vue Routing
-2. Components
-3. Communication between Components ( Parent to child component )
-4. Axios Library to make HTTP calls
+2. Store
+3. Components
+4. Communication between Components ( Parent to child component )
+5. Axios Library to make HTTP calls
 
 ## Prerequisites
 
