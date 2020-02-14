@@ -48,6 +48,4 @@ The Application runs on **localhost:8080**
 
 **axios** : https://www.npmjs.com/package/axios
 
-**vue bootstrap** : https://bootstrap-vue.js.org/docs
-
 **vue router** : https://router.vuejs.org/guide/
